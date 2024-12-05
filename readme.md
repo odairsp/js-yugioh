@@ -1,12 +1,11 @@
-# Yu-Gi-Oh | Jo-ken-po Edition
+# Ri Happy - Front-end do Zero
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+## Desafio Yu-Gi-Oh | Jo-ken-po Edition
 
-conceitos abordados:
+Desafio criado para demonstrar os conhecimentos iniciais em javascript
+e lógica de programação aplicados a jogos
 
-- Armazenamento e gerenciamento de estado manual
-- Funções limpas
-- Organização de código
+
 
 
 
