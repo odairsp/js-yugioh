@@ -3,7 +3,9 @@
 ## Desafio Yu-Gi-Oh | Jo-ken-po Edition
 
 Desafio criado para demonstrar os conhecimentos iniciais em javascript
-e lógica de programação aplicados a jogos
+e lógica de programação aplicados a jogos.
+
+https://odairsp.github.io/js-yugioh/
 
 
 
